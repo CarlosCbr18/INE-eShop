@@ -10,6 +10,7 @@ INE-eShop contiene un registro y login de usuarios tanto administradores como cl
 
 ## Herramientas de desarrollo web usadas
 - Framework Laravel PHP.
+- Plantillas Blade
 - MySQL: Base de Datos.
 
 
